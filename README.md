@@ -1,2 +1,2 @@
 # AnimatedText
-This a git demo practice
+This is a git demo practice
